@@ -1,3 +1,6 @@
+'''
+Created by Maximo Xavier DeLeon
+'''
 import math
 import numpy as np
 import pandas as pd
